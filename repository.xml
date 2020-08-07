@@ -4,7 +4,7 @@
 
    2<Tasks>
       <Category label="Example Tasks">
-         <Location uri="./data/tasks.xml" />
+         <Location uri="./tasks.xml" />
       </Category>
    </Tasks>
    </Repository>
